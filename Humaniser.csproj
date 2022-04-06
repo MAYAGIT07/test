@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Humanizer" Version="Enter version no you want to upgrade or degrade" />
+    <PackageReference Include="Humanizer" Version="2.14.1" />
   </ItemGroup>
 
 </Project>
